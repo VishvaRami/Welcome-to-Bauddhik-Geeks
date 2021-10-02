@@ -18,7 +18,7 @@
     <td align="center"><a href="https://github.com/dhruvaop"><img src="https://github.com/dhruvaop.png" width="100px;" alt="Dhruva Bhattacharya"/><br /><sub><b>Dhruva Bhattacharya</b></sub></a>
     </td>
     <td align="center"><a href="https://github.com/Mayank17M"><img src="https://github.com/Mayank17M.png" width="100px;" alt="Mayank"/><br /><sub><b>Mayank</b></sub></a></td>
-    <td align="center"><a href="https://github.com/stutimongia2024"><img src="https://github.com/stutimongia2024.png" width="100px;" alt="Stuti"/><br /><sub><b>Stuti</b></sub></a></td>
+    <td align="center"><a href="https://github.com/VishvaRami"><img src="https://avatars.githubusercontent.com/u/91777857?v=4" width="100px;" alt="Vishva"/><br/><sub><b>Vishva</b></sub></a></td>
   </tr>
   
   <tr>
@@ -32,6 +32,7 @@
    <td align="center"><a href="https://github.com/kalpitmalviya"><img src="https://avatars.githubusercontent.com/u/48874264?s=400&u=01b08f0500d0ac8b12f75a5648349e30d8047484&v=4" width="100px;" alt="Kalpit Malviya"/><br /><sub><b>Kalpit Malviya</b></sub></a></td> 
     <td align="center"><a href="https://github.com/Abhay-Parihar"><img src="https://avatars.githubusercontent.com/u/83938959?v=4" width="100px;" alt="Abhay-Parihar"/><br /><sub><b>Abhay-Parihar</b></sub></a></td>
    <td align="center"><a href="https://github.com/shaishav06"><img src="https://github.com/shaishav06.png" width="100px;" alt="Shaishav-Surati"/><br /><sub><b>Shaishav Surati</b></sub></a></td>
+      <td align="center"><a href="https://github.com/shaishav06"><img src="https://github.com/shaishav06.png" width="100px;" alt="Shaishav-Surati"/><br /><sub><b>Shaishav Surati</b></sub></a></td>
   <!----PASTE_YOUR_CODE_ABOVE_THIS---- -->
     
   </tr>
